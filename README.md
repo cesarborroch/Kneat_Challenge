@@ -67,25 +67,23 @@ We recommend you to have python's executables on your PATH variable.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://cesarborroch.com) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We github [SGithub](http://github.com) for versioning. For the versions available, see the [tags on this repository](https://github.com/cesarborroch/Kneat_Challenge). 
 
 ## Authors
 
-* **Cesar Borroch** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Cesar Borroch** - *Initial work* - [cesarborroch](https://github.com/cesarborroch)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip to anyone who had the time to read this
 
